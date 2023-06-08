@@ -1,14 +1,12 @@
 # Retail Data Analysis: Basket Analysis and Algorithm Comparison
 
-Welcome to my retail data analysis project! This project is part of my Higher Diploma in Data course and will be included in my GitHub portfolio. The main focus of this project is to perform a comprehensive analysis of basket data in an unidentified grocery store. Additionally, we will compare the Apriori and FP-Growth algorithms to identify their differences and performance in basket analysis.
-
 ## Overview
 
-In this project, we explore basket analysis techniques to uncover associations between frequently co-purchased items. By identifying these relationships, we can gain valuable insights that drive strategic decision-making in the retail industry.
+Welcome to my retail data analysis project! This project is part of my Higher Diploma in Data course and will be included in my GitHub portfolio. The main focus of this project is to perform a comprehensive analysis of basket data in an unidentified grocery store. By identifying these relationships, we can gain valuable insights that drive strategic decision-making in the retail industry. Additionally, we will compare the Apriori and FP-Growth algorithms to identify their differences and performance in basket analysis.
 
 ## Dataset
 
-The dataset used in this project consists of transactions from an unidentified grocery store. Each transaction is represented by a list of purchased items. We will leverage this data to conduct a comprehensive analysis of shopping baskets.
+The dataset used in this project consists of transactions from an unidentified grocery store. It has 38765 rows of purchase orders from people in the grocery stores. You can find the dataset at this link: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
 
 ## Apriori and FP-Growth Algorithms
 
