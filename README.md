@@ -14,7 +14,7 @@ In this project, we compare the Apriori and FP-Growth algorithms for basket anal
 
 ## Interactive Visualizations
 
-In addition to basket analysis, we also explore interactive visualizations to compare purchase information between the years 2014 and 2015. We utilize intuitive and dynamic visualizations to highlight relevant trends and patterns in the retail data.
+In addition to basket analysis, we also explore interactive visualizations to compare purchase information between the years 2014 and 2015. We utilize intuitive and dynamic visualizations to highlight relevant trends and patterns in the retail data. You can access the most relevant visualizations generated during the data analysis phase in the "Views in comparison between the purchasing years of 2014 and 2015" folder of this project.
 
 ## Results and Conclusions
 
